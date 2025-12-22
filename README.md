@@ -29,11 +29,6 @@ QR Code Data: https://github.com/devMuniz02/QR-Reader/
 
 ---
 
-## Integration
-This code was utilized in the [Robot 3-DOF Reinforcement Learning Control](https://github.com/devMuniz02/Robot-3-DOF-Reinforcement-learning-control/) project to enhance functionality.
-
----
-
 ### Check Out My Other Projects
 Explore more of my AI and ML work [here](https://github.com/devMuniz02/AI-ML-Code-and-projects/).
 
