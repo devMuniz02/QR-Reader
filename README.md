@@ -1,18 +1,46 @@
-# QR-Reader
+[![ArXiv](https://img.shields.io/badge/ArXiv-2512.16841-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2512.16841)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devmuniz-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmuniz)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-devMuniz02-181717?logo=github&logoColor=white)](https://github.com/devMuniz02)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devmuniz02.github.io-0F172A?logo=googlechrome&logoColor=white)](https://devmuniz02.github.io/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-manu02-FFD21E?logoColor=black)](https://huggingface.co/manu02)
 
-Code to create and read QR codes.
+# QR-Reader
 
 This repository includes a Python implementation for generating QR codes and decoding them, making it simple to integrate QR functionality into other projects.
 
----
+## Overview
 
-## Project Overview
+Code to create and read QR codes
 
-### Features
-- **QR Code Creation**: Generate QR codes from text, URLs, or other data.
-- **QR Code Reading**: Decode QR codes and extract the embedded information.
+## Repository Structure
 
----
+| Path | Description |
+| --- | --- |
+| `assets/` | Images, figures, or other supporting media used by the project. |
+| `LICENSE` | Repository license information. |
+| `QR Reader.ipynb` | Notebook used for experiments, analysis, or interactive demos. |
+| `README.md` | Primary project documentation. |
+
+## Getting Started
+
+1. Clone the repository.
+
+   ```bash
+   git clone https://github.com/devMuniz02/QR-Reader.git
+   cd QR-Reader
+   ```
+
+2. Prepare the local environment.
+
+Review the repository files below to identify the appropriate local setup steps for this project.
+
+3. Run or inspect the project entry point.
+
+Open the notebook files in Jupyter or VS Code to reproduce the workflow documented in the repository.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Example
 
@@ -33,6 +61,3 @@ QR Code Data: https://github.com/devMuniz02/QR-Reader/
 Explore more of my AI and ML work [here](https://github.com/devMuniz02/AI-ML-Code-and-projects/).
 
 ---
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
